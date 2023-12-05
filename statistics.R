@@ -1,0 +1,12 @@
+#statistics in R
+mean(islands)
+median(islands)
+min(islands)
+max(islands)
+quantile(islands)
+var(islands)
+sd(islands)
+c(islands)
+length(islands)
+class(islands)
+attributes(islands)
